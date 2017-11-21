@@ -15,6 +15,12 @@ CompuSoft is a web-based appplication to nominate students and vote on the categ
 	<img src="screenshots/compushow_2.jpg" width="600" height="350">
 </div>
 
+* Voting category
+
+<div align="center">
+	<img src="screenshots/compushow_3.jpg" width="600" height="350">
+</div>
+
 ## Requirements
 ```
 * Python 3.4.6
